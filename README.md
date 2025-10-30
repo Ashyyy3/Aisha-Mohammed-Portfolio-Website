@@ -1,4 +1,4 @@
-# 🌐 Aisha Mohammed – Portfolio Website
+# 🌐 Aisha's Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and sample work in digital marketing, virtual assistance, and customer service.
 
